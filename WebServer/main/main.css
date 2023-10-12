@@ -1,0 +1,78 @@
+body {
+    background-color: azure;
+    text-transform: capitalize;
+}
+
+.header {
+    display: block;
+    margin: 10px;
+    text-align: right;
+    padding: 20px;
+}
+
+.login {
+    text-align: right;
+    font-size: 15px;
+    padding: 0 10px 0 10px;
+    margin: 5px;
+    border-radius: 5px;
+    float: right;
+}
+
+.logout {
+    text-align: right;
+    font-size: 15px;
+    padding: 0 10px 0 10px;
+    margin: 5px;
+    border-radius: 5px;
+    float: right;
+}
+
+.space {
+    display: block;
+}
+
+.clock{
+    display: block;
+}
+
+.phas{
+    display: inline-flex;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+    width: 28%;
+}
+
+.text{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.ingredient{
+    display: block;
+    margin: 10px;
+}
+
+.control{
+    display: inline;
+}
+
+.input{
+    display: inline-block;
+}
+
+.input-buttion{
+    margin: 10px 10px 10px 10px; 
+}
+.output{
+    display: inline;
+}
+
+.output_buttion{
+    padding: 5px;
+    display: inline-flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px; 
+}
